@@ -22,9 +22,9 @@ Subsequently, we formulated an objective function and applied the Grey Wolf
 Optimization (GWO) algorithm, along with its improved version, to iteratively 
 optimize the placement of DGs within the power network. Through multiple 
 iterations, we identified the optimal P bus locations for two distinct systems: bus 7 
-for the 33-bus system and bus 59 for the 69-bus system. Through multiple 
+for the 33-bus system and bus 61 for the 69-bus system. Through multiple 
 iterations, we identified the optimal PQ bus locations for two distinct systems: bus 7 
-for the 33-bus system and bus 61 for the 69-bus system.
+for the 33-bus system and bus 59 for the 69-bus system.
 Our findings underscore the efficacy of the hybrid approach in pinpointing the 
 most suitable buses for DG integration, thereby enhancing system reliability and 
 minimizing power losses. 
